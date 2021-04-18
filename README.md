@@ -4,7 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Deer detector
 
-Final project for the Building AI course
+xxx
 
 ## Summary
 
